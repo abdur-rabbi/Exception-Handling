@@ -1,3 +1,5 @@
+                                        /*check password validity by exception handling */
+
 #include <iostream>
 using namespace std;
 void checkValidity(string x)
