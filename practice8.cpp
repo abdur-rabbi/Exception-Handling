@@ -1,3 +1,5 @@
+                                                                    /*an array elements negetivity check by exception handling*/
+
 #include <iostream>
 using namespace std;
 int main()
